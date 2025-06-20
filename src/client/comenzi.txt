@@ -1,0 +1,20 @@
+GET Burger
+UPDATE Burger 15
+GET Cartofi
+UPDATE Cola 25
+GET Fanta
+GET Ketchup
+UPDATE Ketchup 3
+GET Crispy
+UPDATE Crispy 6
+GET Apa
+UPDATE Apa 8
+GET Shaorma
+UPDATE Shaorma 2
+GET Sprite
+UPDATE Sprite 1
+GET Inghetata
+UPDATE Inghetata 2
+
+
+

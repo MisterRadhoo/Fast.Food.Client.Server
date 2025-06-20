@@ -1,0 +1,22 @@
+
+1.Descriere Aplicatie
+
+Aplicatia Java implementeaza o arhitectura client-server prin sockets TCP, in care
+clienti pot consulta si actualiza un meniu Fast-Food pastrat de server intr-un
+fisier de tip text numit (meniu.txt).
+Clienti pot transmite comenzi de tip GET sau UPDATE din console sau din fisierul
+(comenzi.txt). Serverul gestioneaza fiecare client in thread separat, asigurand
+conexiuni multiple simultane.
+
+
+2.Observatii
+
+Cererile invalide sau lipsa sunt gestionate de mesaje de eroare.
+Comenzile sunt procesate rapid, inclusiv din fisier (comenzi.txt).
+Server-ul salveaza intotdeauna fisierul (meniu.txt) dupa fiecare UPDATE.
+
+
+
+
+
+

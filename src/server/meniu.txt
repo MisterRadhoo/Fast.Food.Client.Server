@@ -1,0 +1,8 @@
+Burger;30.55;15
+Cartofi;15.55;7
+Cola;12.3;25
+Ketchup;9.49;3
+Crispy;29.99;6
+Inghetata;12.99;2
+Sprite;10.59;1
+Apa;9.99;8
