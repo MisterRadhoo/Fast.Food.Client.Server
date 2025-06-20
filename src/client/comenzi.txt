@@ -15,6 +15,9 @@ GET Sprite
 UPDATE Sprite 1
 GET Inghetata
 UPDATE Inghetata 2
+GET McFish
+UPDATE McFish 3
+
 
 
 
